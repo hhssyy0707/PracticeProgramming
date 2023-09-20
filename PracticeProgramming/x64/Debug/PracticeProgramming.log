@@ -1,0 +1,12 @@
+﻿  Baekjoon.cpp
+C:\Users\user\CPP_PJ\PracticeProgramming\PracticeProgramming\PracticeProgramming\main.h(1,1): warning C4828: 파일에 0x13b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\user\CPP_PJ\PracticeProgramming\PracticeProgramming\PracticeProgramming\Baekjoon.cpp(81,9): warning C4101: 'element' :참조되지 않은 지역 변수입니다.
+  CH01_DFS.cpp
+C:\Users\user\CPP_PJ\PracticeProgramming\PracticeProgramming\PracticeProgramming\main.h(1,1): warning C4828: 파일에 0x13b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\user\CPP_PJ\PracticeProgramming\PracticeProgramming\PracticeProgramming\CH01_DFS.cpp(8,7): warning C4101: 'visited' :참조되지 않은 지역 변수입니다.
+C:\Users\user\CPP_PJ\PracticeProgramming\PracticeProgramming\PracticeProgramming\CH01_DFS.cpp(7,6): warning C4101: 'treeGraph' :참조되지 않은 지역 변수입니다.
+  main.cpp
+C:\Users\user\CPP_PJ\PracticeProgramming\PracticeProgramming\PracticeProgramming\main.h(1,1): warning C4828: 파일에 0x13b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+  코드를 생성하고 있습니다...
+main.obj : error LNK2005: main이(가) CH01_DFS.obj에 이미 정의되어 있습니다.
+C:\Users\user\CPP_PJ\PracticeProgramming\PracticeProgramming\x64\Debug\PracticeProgramming.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
